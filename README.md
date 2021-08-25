@@ -17,6 +17,12 @@ To run code locally, open your terminal and follow these steps:
 - `git clone (https://github.com/elmar8287/testing-jest.git)`
 - `cd testing-jest` 
 - `npm test`
+
+Also you should set the Jest on your computer:
+
+- `npm install --save-dev jest`
+
+more information here https://jestjs.io/docs/getting-started
 ## Author
 
 👤 **Elmar Abdulkarimov**
